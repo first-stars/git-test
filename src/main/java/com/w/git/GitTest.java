@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master git4");
         System.out.println("hot-fix git1");
         System.out.println("plus git1");
+        System.out.println("pull git1");
      }
 }
